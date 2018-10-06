@@ -22,12 +22,12 @@ to generate the scaffolding for this app.
 
 ## Requirements
 
-### 1. Build and react-leaflet app and add GeoJSON data from a third party API with a menu to toggle data. 
-### 2. Add a menu with two buttons "Add Data" and "Remove Data" to add and remove GeoJSON bike data
-### 3. Be able to cluster data as the user zooms out
+1. Build and react-leaflet app and add GeoJSON data from a third party API with a menu to toggle data. 
+2. Add a menu with two buttons "Add Data" and "Remove Data" to add and remove GeoJSON bike data
+3. Be able to cluster data as the user zooms out
 
 ## Bonus 
 
-### Add pie chart from "Theft", "Crash", and "Hazard" data from bikewise API
+Add pie chart from "Theft", "Crash", and "Hazard" data from bikewise API
 
 
